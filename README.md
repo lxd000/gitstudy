@@ -14,4 +14,7 @@
 
 - 'git diff <文件名/目录名称> [--cached]' 版本内容对比
 
+## git log 查看版本
+
+## git reset
 
