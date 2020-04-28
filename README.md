@@ -28,5 +28,8 @@
 - git reset --soft <版本号> "把需要的版本加载到暂存区"
 - git reset --hard HEAD^^ "移动版本号"
 
-
+## git rm
+- git rm <file/menu>
+- git rm --cached <file/menu> "删除跟踪/删除暂存区里的文件"
+- git mv
 
