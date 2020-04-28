@@ -25,3 +25,8 @@
 
 ## git reset
 
+- git reset --hard <版本号>
+- git reset <版本号>
+- git reset --soft <版本号>
+- git reset --hard HEAD^ "移动版本号"
+
