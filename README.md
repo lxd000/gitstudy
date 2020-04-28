@@ -15,7 +15,6 @@
 - 'git diff <文件名/目录名称> [--cached]' 版本内容对比
 
 ## git log 查看版本
-
 - git log
 - git log <-number>
 - git log -p <-number>
@@ -24,7 +23,6 @@
 - gitk "以GUI界面的形式显示版本之间的差异"
 
 ## git reset
-
 - git reset --hard <版本号> "强硬的把工作区全部覆盖"
 - git reset <版本号> "版本的作用区域回到未提交之前的区域"
 - git reset --soft <版本号> "把需要的版本加载到暂存区"
