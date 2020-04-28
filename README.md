@@ -28,8 +28,9 @@
 - git reset --soft <版本号> "把需要的版本加载到暂存区"
 - git reset --hard HEAD^^ "移动版本号"
 
-## git rm
+## git rm/mv
 - git rm <file/menu>
-- git rm --cached <file/menu> "删除跟踪/删除暂存区里的文件"
-- git mv
+- git rm --cached <file/menu> "删除指定文件的跟踪/删除暂存区里的文件"
+- git mv <文件原来位置> <文件或目录的新位置>
+- git mv <文件的旧名字> <文件的新名字>
 
