@@ -16,5 +16,12 @@
 
 ## git log 查看版本
 
+- git log
+- git log <-number>
+- git log -p <-number>
+- git log --stat "以缩略行的形式显示版本之间的差异"
+- git log --oneline "以一行的形式显示版本之间的差异"
+- gitk "以GUI界面的形式显示版本之间的差异"
+
 ## git reset
 
