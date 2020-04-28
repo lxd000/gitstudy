@@ -55,8 +55,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2050" />
-    <option name="y" value="197" />
+    <option name="x" value="1876" />
+    <option name="y" value="45" />
     <option name="width" value="1869" />
     <option name="height" value="2120" />
   </component>
@@ -114,11 +114,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13539000" />
+    <option name="totallyTimeSpent" value="13776000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2050" y="197" width="1869" height="2120" extended-state="0" />
-    <editor active="true" />
+    <frame x="1083" y="156" width="1869" height="2120" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.160568" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
