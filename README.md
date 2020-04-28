@@ -25,8 +25,8 @@
 
 ## git reset
 
-- git reset --hard <版本号>
-- git reset <版本号>
-- git reset --soft <版本号>
+- git reset --hard <版本号> "强硬的把工作区全部覆盖"
+- git reset <版本号> ""
+- git reset --soft <版本号> ""
 - git reset --hard HEAD^ "移动版本号"
 
