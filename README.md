@@ -1,8 +1,15 @@
 # Git 学习资料整理笔记
 ## 1 课程介绍
 ## 2 Git基础命令
+## 创建版本库
+
+- mkdir gitstudy "创建一个名叫gitstudy的空目录"
+- cd gitstudy "把gitstudy设置为当前目录"
+- pwd "查看当前目录"
 
 - 'git init' 初始化Git仓库
+
+
 
 工作区 -> 暂存区
 - 'git add <文件名或目录名>' 提交工作区文件到暂存区
@@ -34,3 +41,6 @@
 - git mv <文件原来位置> <文件或目录的新位置>
 - git mv <文件的旧名字> <文件的新名字>
 
+## git remote
+- git remote add <自定义名称> <源路径>
+- git remote 
