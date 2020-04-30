@@ -55,6 +55,8 @@
 
 ## git branch
 - git branch <new name>
+- git checkout <branch name>
+- git checkout -b <branch name> 等同于 "git branch <new name>" + "git checkout <branch name>"
 
 
 
