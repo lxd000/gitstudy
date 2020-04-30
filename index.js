@@ -1,2 +1,2 @@
-var version = '1.0.1';
+var version = '1.1.1';
 console.log('this git version:' + version);

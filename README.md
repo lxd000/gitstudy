@@ -43,4 +43,18 @@
 
 ## git remote
 - git remote add <自定义名称> <源路径>
-- git remote 
+- git remote remove <自定义名称> "删除自定义名称"
+- git remote show "展示之前添加的自定义名称"
+- git remote -v "显示所有的git服务器地址"
+- git remote rename <旧名> <新名>
+
+## git push
+- git push <remote name> <master 版本分支>
+- git push -u <remote name> <master 版本分支>ss
+- git push --all "推送所有分支到服务器"
+
+## git branch
+- git branch <new name>
+
+
+
