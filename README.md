@@ -52,11 +52,15 @@
 - git push <remote name> <master 版本分支>
 - git push -u <remote name> <master 版本分支>ss
 - git push --all "推送所有分支到服务器"
+- git push --force <remote name>
 
 ## git branch
 - git branch <new name>
 - git checkout <branch name>
 - git checkout -b <branch name> 等同于 "git branch <new name>" + "git checkout <branch name>"
-
+- git merge <branch name> "合并分支"
+- git rebase <branch name> "合并分支"
+- git branch "查看所有分支"
+- git branch -D <new name> "删除分支"
 
 
