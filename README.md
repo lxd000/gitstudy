@@ -63,4 +63,13 @@
 - git branch "查看所有分支"
 - git branch -D <new name> "删除分支"
 
+## git tags
+- git tag
+- git tag -a <new tag name> -m <tag name describe>
+- git show <tag name>
+- git push <remote name> <tag name>
+- git push <tagname> --tages
+
+
+ 
 
