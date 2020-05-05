@@ -1,0 +1,15 @@
+{
+  "name": "gitstudy",
+  "version": "1.0.0",
+  "description": "- mkdir gitstudy \"创建一个名叫gitstudy的空目录\"\r - cd gitstudy \"把gitstudy设置为当前目录\"\r - pwd \"查看当前目录\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}

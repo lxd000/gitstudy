@@ -9,10 +9,13 @@
 
 - 'git init' 初始化Git仓库
 
+- git config --global user.name "xxx"
+- git config --global user.email "xxx@qq.com"
 
+- git config --list "查看设置"
 
 工作区 -> 暂存区
-- 'git add <文件名或目录名>' 提交工作区文件到暂存区
+- git add <文件名或目录名> "提交工作区文件到暂存区"
 
 工作区 -> 暂存区 -> 本地版本库
 - 'git commit -m "为什么要提交的注释"' 提交到本地版本库
@@ -36,7 +39,8 @@
 - git reset --hard HEAD^^ "移动版本号"
 
 ## git rm/mv
-- git rm <file/menu>
+- git rm test.txt "删除文件"
+- git rm -r filebook "删除文件夹"
 - git rm --cached <file/menu> "删除指定文件的跟踪/删除暂存区里的文件"
 - git mv <文件原来位置> <文件或目录的新位置>
 - git mv <文件的旧名字> <文件的新名字>
