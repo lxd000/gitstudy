@@ -52,7 +52,7 @@
 - git push <remote name> <master 版本分支>
 - git push -u <remote name> <master 版本分支>ss
 - git push --all "推送所有分支到服务器"
-- git push --force <remote name>
+- git push --force <remote name> "强制上传"
 
 ## git branch
 - git branch <new name>
